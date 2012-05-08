@@ -1,0 +1,7 @@
+---
+layout: post
+title: stashing your changes test
+category: beginner
+---
+Does this work 
+@code goes here!@
