@@ -1,0 +1,21 @@
+1) The jekyll command will generate this site locally. 
+
+2) In order for pages to be seen, they must match the date format in the _posts/ directory
+
+3) Savvy users will note that the _site directory is in .gitignore ... guess why ? 
+
+4) To deploy to heroku, you push it to heroku after initializing the site .  The 
+heroku site is already associated with this repository, and will use your ssh keys, 
+which have been added to heroku (by you :)), to validate your submission. 
+
+5) Again, the two commands are 
+
+ PUSH YOUR LATEST CONTENT TO GITHUB
+
+  git push origin master
+
+ DEPLOY THE SITE TO HEROKU 
+
+  git push heroku master 
+
+
