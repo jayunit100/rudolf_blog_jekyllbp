@@ -1,4 +1,4 @@
-## Here's some information about RudolF technologies:
+Here's some information about RudolF technologies:
 
  1. Lisp/Scheme/Clojure
 
